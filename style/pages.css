@@ -1,0 +1,36 @@
+.container, #about {
+	width: 50%;
+	margin: auto;
+	margin-top: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	line-height: 1.5; 
+	font-family: arial;
+	color: white;
+	background-color: #333;
+}
+
+a {
+	color: #808080;
+	text-decoration: none;
+}
+
+html {
+	background: url(../img/background.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+body img {
+	border: 5px solid white;
+	max-width: 20%;
+}
+
+.float {
+	display: inline-block;
+	width: 72%;
+	margin: 0 0 0 40px;
+	vertical-align: top;
+}
