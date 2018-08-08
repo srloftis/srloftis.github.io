@@ -1,5 +1,6 @@
 html {
 	background: url(../img/notebook_sl-min.jpg);
 	background-size: cover;
+	background-position: center;
 	height: 100%;
 }
