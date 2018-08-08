@@ -4,3 +4,9 @@ html {
 	background-position: center;
 	height: 100%;
 }
+
+@media only screen and (max-width: 768px) {
+    html {
+        background: url(../img/background-min.jpg);
+    }
+}
