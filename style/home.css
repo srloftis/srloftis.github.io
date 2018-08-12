@@ -1,11 +1,6 @@
 html {
 	background: url(../img/notebook_sl-min.jpg);
 	background-size: cover;
+	background-position: center;
 	height: 100%;
-}
-
-@media only screen and (max-width: 768px) {
-    html {
-		background-position: center;
-    }
 }
